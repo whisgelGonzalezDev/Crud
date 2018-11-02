@@ -1,0 +1,13 @@
+.bg-custom{
+	background-color: #0B90BB;
+}
+
+.texts{
+	font-family: 'pacifico', cursive;
+}
+
+botoninput{
+	padding: 2px 6px 3px;
+	border-width: 2px;
+	border-style: outset;
+}
